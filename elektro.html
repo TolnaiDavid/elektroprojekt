@@ -7,21 +7,22 @@
     <link rel="stylesheet" href="elektro.css">
 
 </head>
+<div class="sidebar">
+    <nav>
+        <a class="active" href="">HOME</a>
+        <a href="1.proji.html">1.projektmunka</a>
+        <a href="">2.projektmunka</a>
+        <a href="">3.projektmunka</a>
+    </nav> 
+</div>
 <body>
     <h1>Elektro projekt feadatok</h1>
     <h2>Üdvözöllek a weboldalamon!</h2>
-    <div class="sidebar">
-        <nav>
-            <a class="active" href="">HOME</a>
-            <a href="1.proji.html">1.projektmunka</a>
-            <a href="">2.projektmunka</a>
-            <a href="">3.projektmunka</a>
-        </nav> 
-    </div>
+ 
     <div>
         <u><p id="szovog">Idde lesznek feltöltve a projekt fealadatok</p></u>
     </div>
-    </div>
+
     <div class="balra">
         <h3>Pár alap dolog</h3>
         <h4>Ohm törvénye:</h4>
